@@ -34,7 +34,9 @@ class _SignupScreenState extends State<SignupScreen> {
                     children: [
                       TextField(decoration: InputDecoration(
                         enabledBorder: true,
-                        border: OutlineInputBorder(),
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.all(10)
+                        ),
                       ),
                         controller: nameTextEditingController,
                         keyboardType: TextInputType.text,
