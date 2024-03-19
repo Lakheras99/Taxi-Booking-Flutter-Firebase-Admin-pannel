@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c88209-32d2-4048-82b0-170e8a6d0a32" name="Changes" comment="third commit">
-      <change beforePath="$PROJECT_DIR$/lib/authentication/signup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/authentication/signup_screen.dart" afterDir="false" />
-    </list>
+    <list default="true" id="b3c88209-32d2-4048-82b0-170e8a6d0a32" name="Changes" comment="third commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710768056943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1710768135799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710768135799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

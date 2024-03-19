@@ -25,6 +25,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 'Create a user\'s account',
                 style: TextStyle(
                   fontSize: 26,
+
                   fontWeight: FontWeight.bold,
                 ),
               ),
